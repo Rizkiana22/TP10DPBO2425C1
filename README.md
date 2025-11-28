@@ -39,7 +39,7 @@ Folder ini menyediakan file tampilan:
 
 ## Struktur Program
 D:.
-│   index.php
+│   index.php 
 │   README.md
 │   
 ├───config
