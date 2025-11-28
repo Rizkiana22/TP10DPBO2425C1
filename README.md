@@ -38,6 +38,7 @@ Folder ini menyediakan file tampilan:
 - Semua view memanggil template `header.php` dan `footer.php` agar tampil konsisten.
 
 ## Struktur Program
+```
 TP10
 │   index.php
 │   README.md
@@ -74,7 +75,7 @@ TP10
     └───template
             footer.php
             header.php
-
+```
 
 ## Desain Database
 <img width="1302" height="317" alt="Screenshot 2025-11-28 150813" src="https://github.com/user-attachments/assets/352ac5c2-f761-47f1-9bd9-9c80ba8d6eef" />
