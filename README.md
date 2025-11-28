@@ -47,6 +47,8 @@ TP10
 │       DB.php
 │
 ├───db
+│       sistem_akademik.sql
+│
 ├───dokumentasi
 │       screenrecord.mp4
 │
