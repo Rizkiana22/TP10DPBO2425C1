@@ -38,27 +38,30 @@ Folder ini menyediakan file tampilan:
 - Semua view memanggil template `header.php` dan `footer.php` agar tampil konsisten.
 
 ## Struktur Program
-TP10/
+TP10
 │   index.php
 │   README.md
-│   
-├───config/
+│
+├───config
 │       DB.php
-│       
-├───db/
+│
+├───db
+├───dokumentasi
+│       screenrecord.mp4
+│
 ├───models
 │       Course.php
 │       Enrollment.php
 │       Lecturer.php
 │       Student.php
-│       
-├───viewmodels/
+│
+├───viewmodels
 │       CourseViewModel.php
 │       EnrollmentViewModel.php
 │       LecturerViewModel.php
 │       StudentViewModel.php
-│       
-└───views/
+│
+└───views
     │   course_form.php
     │   course_list.php
     │   enrollment_form.php
@@ -68,9 +71,10 @@ TP10/
     │   student_form.php
     │   student_list.php
     │
-    └───template/
+    └───template
             footer.php
             header.php
+
 
 ## Desain Database
 <img width="1302" height="317" alt="Screenshot 2025-11-28 150813" src="https://github.com/user-attachments/assets/352ac5c2-f761-47f1-9bd9-9c80ba8d6eef" />
