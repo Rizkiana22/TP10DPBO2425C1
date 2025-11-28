@@ -38,7 +38,7 @@ Folder ini menyediakan file tampilan:
 - Semua view memanggil template `header.php` dan `footer.php` agar tampil konsisten.
 
 ## Struktur Program
-D:.
+TP10DPBO2425/
 │   index.php
 │   README.md
 │   
